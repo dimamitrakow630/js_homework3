@@ -10,3 +10,5 @@ function checkProbabilityTheory(count){
 
    return `total numbers: odds: ${odds}, evens: ${evens}, odds probability: ${odds / count}, evens probability: ${evens / count}`;
 }
+
+console.log(checkProbabilityTheory(1000));
