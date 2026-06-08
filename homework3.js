@@ -12,3 +12,4 @@ function pow(a, b) {
     return result;
 }
 }
+console.log(pow(5, -6));
